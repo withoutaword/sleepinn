@@ -64,7 +64,7 @@ Create `src/lib/constants.ts`:
 ```typescript
 export const HOTEL_NAME = "Quality Inn Sandusky";
 export const PHONE_NUMBER = "+14195040035";
-export const PHONE_DISPLAY = "(419) 555-1234";
+export const PHONE_DISPLAY = "(419) 504-0035";
 export const BOOKING_URL = "https://www.booking.com/hotel/us/quality-inn-sandusky.html";
 export const ADDRESS = {
   street: "Milan Road",
