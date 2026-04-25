@@ -31,7 +31,7 @@ const jsonLd = {
     postalCode: "44870",
     addressCountry: "US",
   },
-  telephone: "+14195551234",
+  telephone: "+14195040035",
   amenityFeature: [
     { "@type": "LocationFeatureSpecification", name: "Free Breakfast", value: true },
     { "@type": "LocationFeatureSpecification", name: "Indoor Pool", value: true },

@@ -63,7 +63,7 @@ Create `src/lib/constants.ts`:
 
 ```typescript
 export const HOTEL_NAME = "Quality Inn Sandusky";
-export const PHONE_NUMBER = "+14195551234";
+export const PHONE_NUMBER = "+14195040035";
 export const PHONE_DISPLAY = "(419) 555-1234";
 export const BOOKING_URL = "https://www.booking.com/hotel/us/quality-inn-sandusky.html";
 export const ADDRESS = {
@@ -981,8 +981,8 @@ export default function Footer() {
               </a>
             </p>
             <p className="text-slate-400 text-sm">
-              <a href="mailto:info@qualityinnsandusky.com" className="hover:text-white transition-colors">
-                info@qualityinnsandusky.com
+              <a href="mailto:OH463@stayatchoice.com" className="hover:text-white transition-colors">
+                OH463@stayatchoice.com
               </a>
             </p>
           </div>
@@ -1114,7 +1114,7 @@ const jsonLd = {
     postalCode: "44870",
     addressCountry: "US",
   },
-  telephone: "+14195551234",
+  telephone: "+14195040035",
   amenityFeature: [
     { "@type": "LocationFeatureSpecification", name: "Free Breakfast", value: true },
     { "@type": "LocationFeatureSpecification", name: "Outdoor Pool", value: true },

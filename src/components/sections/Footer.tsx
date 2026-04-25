@@ -23,8 +23,8 @@ export default function Footer() {
               </a>
             </p>
             <p className="text-slate-400 text-sm">
-              <a href="mailto:info@qualityinnsandusky.com" className="hover:text-white transition-colors">
-                info@qualityinnsandusky.com
+              <a href="mailto:OH463@stayatchoice.com" className="hover:text-white transition-colors">
+                OH463@stayatchoice.com
               </a>
             </p>
           </div>
